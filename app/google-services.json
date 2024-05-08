@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506054796956",
+    "project_id": "giftsapps-70e4b",
+    "storage_bucket": "giftsapps-70e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506054796956:android:aa057a723cd4b83e7aef59",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb_CPJsu-ath0j-1YzdP_8b1f3JEwO9N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
